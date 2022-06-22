@@ -20,7 +20,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/72750744/175001887-4645b75d-4cd6-41f9-8ea4-9ff20f5347f5.png">
 </div>
   
   ##
