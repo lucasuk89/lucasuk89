@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a opportunity to work as a Junior Front-End Developer 
-- 🌱 I’m currently learning Javascript/React
+- 🔭 I’m currently looking for a opportunity to work as a Junior Front-End Developer.
 - 📫 How to reach me: lucasuk89@gmail.com
 
 
